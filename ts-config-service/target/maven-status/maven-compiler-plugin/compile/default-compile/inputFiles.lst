@@ -1,0 +1,8 @@
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/init/InitData.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/service/ConfigServiceImpl.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/ConfigApplication.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/entity/Config.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/service/ConfigService.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/controller/ConfigController.java
+/home/ygb/train-ticket/ts-config-service/src/main/java/config/repository/ConfigRepository.java

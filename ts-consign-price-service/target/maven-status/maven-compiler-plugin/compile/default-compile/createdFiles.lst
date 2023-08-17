@@ -1,0 +1,9 @@
+consignprice/repository/ConsignPriceConfigRepository.class
+consignprice/init/InitData.class
+consignprice/service/ConsignPriceService.class
+consignprice/entity/ConsignPrice.class
+consignprice/ConsignPriceApplication.class
+consignprice/service/ConsignPriceServiceImpl.class
+consignprice/controller/ConsignPriceController.class
+consignprice/config/SecurityConfig$1.class
+consignprice/config/SecurityConfig.class

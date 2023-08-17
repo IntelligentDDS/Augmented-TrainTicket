@@ -1,0 +1,10 @@
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/entity/QueryInfo.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/service/OrderOtherService.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/repository/OrderOtherRepository.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/controller/OrderOtherController.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/init/InitData.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/OrderOtherApplication.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/entity/OrderAlterInfo.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/entity/Order.java
+/home/ygb/train-ticket/ts-order-other-service/src/main/java/other/service/OrderOtherServiceImpl.java

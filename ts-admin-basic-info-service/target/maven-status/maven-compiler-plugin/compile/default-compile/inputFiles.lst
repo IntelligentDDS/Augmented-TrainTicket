@@ -1,0 +1,6 @@
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/service/AdminBasicInfoService.java
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/controller/AdminBasicInfoController.java
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/service/AdminBasicInfoServiceImpl.java
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/AdminBasicInfoApplication.java
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/entity/PriceInfo.java
+/home/ygb/train-ticket/ts-admin-basic-info-service/src/main/java/adminbasic/config/SecurityConfig.java

@@ -1,0 +1,11 @@
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/entity/Trip.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/service/TravelService.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/entity/Travel.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/repository/TripRepository.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/Travel2Application.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/entity/AdminTrip.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/service/TravelServiceImpl.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/init/InitData.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/entity/TripAllDetail.java
+/home/ygb/train-ticket/ts-travel2-service/src/main/java/travel2/controller/Travel2Controller.java

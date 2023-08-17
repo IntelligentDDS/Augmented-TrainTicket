@@ -1,0 +1,5 @@
+delivery/mq/RabbitReceive.class
+delivery/config/Queues.class
+delivery/repository/DeliveryRepository.class
+delivery/DeliveryApplication.class
+delivery/entity/Delivery.class

@@ -1,0 +1,7 @@
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/service/PreserveServiceImpl.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/PreserveApplication.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/mq/RabbitSend.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/controller/PreserveController.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/service/PreserveService.java
+/home/ygb/train-ticket/ts-preserve-service/src/main/java/preserve/config/Queues.java

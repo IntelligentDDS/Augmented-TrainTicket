@@ -1,0 +1,10 @@
+contacts/service/ContactsService.class
+contacts/entity/Contacts.class
+contacts/controller/ContactsController.class
+contacts/config/SecurityConfig.class
+contacts/repository/ContactsRepository.class
+contacts/ContactsApplication.class
+contacts/config/SecurityConfig$1.class
+contacts/init/InitData.class
+contacts/entity/DocumentType.class
+contacts/service/ContactsServiceImpl.class

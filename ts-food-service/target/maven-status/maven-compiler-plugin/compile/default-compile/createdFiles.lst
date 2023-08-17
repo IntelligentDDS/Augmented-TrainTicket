@@ -1,0 +1,15 @@
+foodsearch/service/FoodService.class
+foodsearch/config/SecurityConfig$1.class
+foodsearch/repository/FoodOrderRepository.class
+foodsearch/config/Queues.class
+foodsearch/service/FoodServiceImpl$3.class
+foodsearch/service/FoodServiceImpl$2.class
+foodsearch/config/SecurityConfig.class
+foodsearch/service/FoodServiceImpl$1.class
+foodsearch/entity/AllTripFood.class
+foodsearch/service/FoodServiceImpl.class
+foodsearch/entity/Delivery.class
+foodsearch/mq/RabbitSend.class
+foodsearch/FoodApplication.class
+foodsearch/entity/FoodOrder.class
+foodsearch/controller/FoodController.class

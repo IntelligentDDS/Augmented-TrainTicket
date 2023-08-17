@@ -1,0 +1,8 @@
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/service/TrainServiceImpl.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/service/TrainService.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/init/InitData.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/entity/TrainType.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/repository/TrainTypeRepository.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/controller/TrainController.java
+/home/ygb/train-ticket/ts-train-service/src/main/java/train/TrainApplication.java

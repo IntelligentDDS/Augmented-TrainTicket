@@ -1,0 +1,10 @@
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/controller/WaitListOrderController.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/utils/PollThread.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/service/WaitListOrderService.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/repository/WaitListOrderRepository.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/WaitOrderApplication.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/entity/WaitListOrderVO.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/entity/WaitListOrderStatus.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/entity/WaitListOrder.java
+/home/ygb/train-ticket/ts-wait-order-service/src/main/java/waitorder/service/Impl/WaitListOrderServiceImpl.java

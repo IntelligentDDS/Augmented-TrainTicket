@@ -1,0 +1,12 @@
+assurance/config/SecurityConfig.class
+assurance/entity/AssuranceType.class
+assurance/service/AssuranceServiceImpl.class
+assurance/entity/Assurance.class
+assurance/service/AssuranceService.class
+assurance/config/SecurityConfig$1.class
+assurance/repository/AssuranceRepository.class
+assurance/AssuranceApplication.class
+assurance/entity/PlainAssurance.class
+assurance/init/InitData.class
+assurance/controller/AssuranceController.class
+assurance/entity/AssuranceTypeBean.class

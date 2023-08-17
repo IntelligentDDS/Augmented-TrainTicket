@@ -1,0 +1,8 @@
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/service/ConsignPriceService.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/ConsignPriceApplication.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/repository/ConsignPriceConfigRepository.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/controller/ConsignPriceController.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/entity/ConsignPrice.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/init/InitData.java
+/home/ygb/train-ticket/ts-consign-price-service/src/main/java/consignprice/service/ConsignPriceServiceImpl.java

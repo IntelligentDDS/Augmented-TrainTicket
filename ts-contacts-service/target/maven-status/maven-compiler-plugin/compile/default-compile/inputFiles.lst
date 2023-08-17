@@ -1,0 +1,9 @@
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/entity/Contacts.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/ContactsApplication.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/service/ContactsService.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/entity/DocumentType.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/service/ContactsServiceImpl.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/repository/ContactsRepository.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/init/InitData.java
+/home/ygb/train-ticket/ts-contacts-service/src/main/java/contacts/controller/ContactsController.java

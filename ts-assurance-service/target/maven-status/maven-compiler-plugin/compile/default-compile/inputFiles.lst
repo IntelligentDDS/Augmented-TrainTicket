@@ -1,0 +1,11 @@
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/init/InitData.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/entity/AssuranceTypeBean.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/service/AssuranceServiceImpl.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/config/SecurityConfig.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/entity/AssuranceType.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/controller/AssuranceController.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/AssuranceApplication.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/repository/AssuranceRepository.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/entity/Assurance.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/service/AssuranceService.java
+/home/ygb/train-ticket/ts-assurance-service/src/main/java/assurance/entity/PlainAssurance.java

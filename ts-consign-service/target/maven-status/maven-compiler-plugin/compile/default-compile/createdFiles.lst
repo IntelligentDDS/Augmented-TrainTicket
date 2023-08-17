@@ -1,0 +1,14 @@
+consign/config/SecurityConfig.class
+consign/entity/InsertConsignRecordResult.class
+consign/entity/GetPriceDomain.class
+consign/service/ConsignServiceImpl.class
+consign/ConsignApplication.class
+consign/service/ConsignServiceImpl$1.class
+consign/init/InitData.class
+consign/service/ConsignService.class
+consign/entity/Consign.class
+consign/config/SecurityConfig$1.class
+consign/controller/ConsignController.class
+consign/repository/ConsignRepository.class
+consign/service/ConsignServiceImpl$2.class
+consign/entity/ConsignRecord.class

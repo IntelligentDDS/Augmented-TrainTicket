@@ -1,0 +1,5 @@
+/home/ygb/train-ticket/ts-delivery-service/src/main/java/delivery/config/Queues.java
+/home/ygb/train-ticket/ts-delivery-service/src/main/java/delivery/entity/Delivery.java
+/home/ygb/train-ticket/ts-delivery-service/src/main/java/delivery/repository/DeliveryRepository.java
+/home/ygb/train-ticket/ts-delivery-service/src/main/java/delivery/mq/RabbitReceive.java
+/home/ygb/train-ticket/ts-delivery-service/src/main/java/delivery/DeliveryApplication.java
